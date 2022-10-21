@@ -203,10 +203,6 @@ body, input, select, textarea {
 
 	}
 
-	a:hover {
-		border-bottom-color: transparent;
-		color: #34a58e !important;
-	}
 
 strong, b {
 	color: #ffffff;
