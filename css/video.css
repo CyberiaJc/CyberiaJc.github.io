@@ -109,7 +109,18 @@ footer, header, hgroup, menu, nav, section {
 .cointainerVideo{
 	height: 700px;
 
+align-items: center;
+justify-content: center;
 }
+
+.alineartodo{
+
+	
+	align-items: center;
+	justify-content: center;
+	
+	}
+
 
 
 
@@ -191,133 +202,6 @@ footer, header, hgroup, menu, nav, section {
 
 
 
-.DivImg{
-  
-width: 100%;
-	
-		justify-content: center;
-		align-items: center; 
-}
-
-
-.LogoJpc{
-  
-	width: 80%;
-	justify-content: center;
-	align-items: center;
-
-}
-
-
-
-
-
-
-@media screen and (max-width:1200px){
-
-
-	.LogoJpc{
-	
-		width: 80%;
-
-  
-	  
-  }
-
-
-  }
-
-
-
-@media screen and (max-width:1100px){
-
-
-  .LogoJpc{
-	width: 80%;
-
-
-	
-}
-}
-
-
-
-
-
-@media screen and (max-width:937px){
-
-	.cointainerVideo{
-  
-	  margin-top: 60px;
-  }
-  .LogoJpc{
-  
-	width: 80%;
-
-	
-}
-
-
-
-.map{
-	
-	display: none;
-	
-	
-	  
-	}
-}
-
-
-
-
-
-
-
-@media screen and (max-width:768px){
-
-	.cointainerVideo{
-  
-	  margin-top: 60px;
-  }
-
-  .LogoJpc{
-  
-	width: 180px;
-	
-}
-}
-
-
-
-
-
-
-
-
-
-
-@media screen and (max-width:500px){
-
-	  .cointainerVideo{
-	
-		margin-top: 60px;
-		
-	}
-   
-
-	.LogoJpc{
-	
-		width: 70%;
-	
-	
-	}
-
-
-
-
-}
- 
 
 
 #ColorA{color: darkblue;}
