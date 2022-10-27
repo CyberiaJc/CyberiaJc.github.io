@@ -144,6 +144,7 @@ a {
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
+  
   a:hover {
     color: #34c0e7;
     text-decoration: underline; }
@@ -8845,10 +8846,10 @@ border-color: #e3627f;
       width: 220px;
       height: 220px;
       margin: 0 auto;
-      -webkit-border-radius: 50%;
-      -moz-border-radius: 50%;
-      -ms-border-radius: 50%;
-      border-radius: 50%;
+      -webkit-border-radius: 49%;
+      -moz-border-radius: 49%;
+      -ms-border-radius: 49%;
+      border-radius: 49%;
     
     }
 
