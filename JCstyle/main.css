@@ -1,3 +1,6 @@
+
+
+
 @-moz-keyframes spinner {
 	0% {
 		-moz-transform: rotate(0deg);
@@ -1181,7 +1184,7 @@ table {
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background-image: url("images/close.svg");
+			background-image: url("../images/close.svg");
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: 3em;
@@ -1200,7 +1203,7 @@ table {
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background-image: url("images/arrow.svg");
+			background-image: url("../images/arrow.svg");
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: 5em;
@@ -1212,6 +1215,7 @@ table {
 			top: 50%;
 			width: 6em;
 			z-index: 2;
+		
 		}
 
 		.poptrox-popup .nav-previous {
